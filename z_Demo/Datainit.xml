@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <admin>
+        <loginname>admin</loginname>
+        <password>admin</password>
+        <lodintimes>3</lodintimes>
+    </admin>
+</data>
